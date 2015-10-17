@@ -1,0 +1,7 @@
+dotenv==0.0.5
+py==1.4.30
+pyTelegramBotAPI==0.3.9
+pytest==2.8.2
+requests==2.8.1
+six==1.10.0
+wheel==0.24.0
